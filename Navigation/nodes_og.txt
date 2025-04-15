@@ -1,0 +1,44 @@
+<!-- Nodes og -->
+   <circle id="o12Door" cx="80" cy="90" r="2" />
+   <circle id="o12" cx="80" cy="110" r="2" />
+   <circle id="o13Door" cx="198" cy="90" r="2" />
+   <circle id="o13" cx="198" cy="110" r="2" />
+   <circle id="o14Door" cx="316" cy="90" r="2" />
+   <circle id="o14" cx="316" cy="110" r="2" />
+   <circle id="o15Door" cx="418" cy="90" r="2" />
+   <circle id="o15" cx="418" cy="110" r="2" />
+   <circle id="o16Door" cx="519" cy="90" r="2" />
+   <circle id="o16" cx="519" cy="110" r="2" />
+   <circle id="o17Door" cx="620" cy="90" r="2" />
+   <circle id="o17" cx="620" cy="110" r="2" />
+   <circle id="o18Door" cx="710" cy="90" r="2" />
+   <circle id="o18" cx="710" cy="110" r="2" />
+   <circle id="o19Door" cx="800" cy="90" r="2" />
+   <circle id="o19" cx="800" cy="110" r="2" />
+   <circle id="oStairsEntrance" cx="90" cy="125" r="2"/>
+   <circle id="oStairsEntranceCorridor" cx="90" cy="110" r="2"/>
+   <circle id="o08Door" cx="60" cy="310" r="2" />
+   <circle id="o08" cx="60" cy="290" r="2" />
+   <circle id="o07Door" cx="177" cy="310" r="2" />
+   <circle id="o07" cx="177" cy="290" r="2" />
+   <circle id="o05Door" cx="369" cy="310" r="2" />
+   <circle id="o05" cx="369" cy="290" r="2" />
+   <circle id="o04Door" cx="464" cy="310" r="2" />
+   <circle id="o04" cx="464" cy="290" r="2" />
+   <circle id="o03Door" cx="599" cy="310" r="2" />
+   <circle id="o03" cx="599" cy="290" r="2" />
+   <circle id="o29Door" cx="519" cy="270" r="2" />
+   <circle id="o29" cx="519" cy="290" r="2" />
+   <circle id="oWcDoor" cx="603" cy="220" r="2" />
+   <circle id="oWc" cx="620" cy="220" r="2" />
+   <circle id="oStairsBuffet" cx="603" cy="150" r="2" />
+   <circle id="oStairsBuffetCorridor" cx="620" cy="150" r="2" />
+   <circle id="o25" cx="670" cy="233" r="2"/>
+   <circle id="o12Corner" cx="60" cy="110" r="2" />
+   <circle id="oOfficeCorner" cx="740" cy="110" r="2"/>
+   <circle id="oOfficeDoor" cx="755" cy="185" r="2" />
+   <circle id="oOffice" cx="740" cy="185" r="2" />
+   <circle id="oPrincipalDoor" cx="755" cy="245" r="2" />
+   <circle id="oPrincipal" cx="740" cy="245" r="2" />
+   <circle id="o03Corner" cx="620" cy="290" r="2" />
+   <circle id="oPrincipalCorner" cx="740" cy="290" r="2"/>

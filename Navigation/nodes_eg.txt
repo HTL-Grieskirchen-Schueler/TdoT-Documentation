@@ -1,0 +1,42 @@
+<circle id="e13Door" cx="80" cy="90" r="2" />
+   <circle id="e13" cx="80" cy="110" r="2" />
+   <circle id="e14Door" cx="198" cy="90" r="2" />
+   <circle id="e14" cx="198" cy="110" r="2" />
+   <circle id="e15Door" cx="316" cy="90" r="2" />
+   <circle id="e15" cx="316" cy="110" r="2" />
+   <circle id="e16Door" cx="418" cy="90" r="2" />
+   <circle id="e16" cx="418" cy="110" r="2" />
+   <circle id="e17Door" cx="519" cy="90" r="2" />
+   <circle id="e17" cx="519" cy="110" r="2" />
+   <circle id="e18Door" cx="620" cy="90" r="2" />
+   <circle id="e18" cx="620" cy="110" r="2" />
+   <circle id="e19Door" cx="710" cy="90" r="2" />
+   <circle id="e19" cx="710" cy="110" r="2" />
+   <circle id="e20Door" cx="800" cy="90" r="2" />
+   <circle id="e20" cx="800" cy="110" r="2" />
+   <circle id="eStairsEntrance" cx="90" cy="270" r="2"/>
+   <circle id="eStairsEntranceCorridor" cx="90" cy="290" r="2"/>
+   <circle id="e07Door" cx="220" cy="310" r="2" />
+   <circle id="e07" cx="220" cy="290" r="2" />
+   <circle id="e05Door" cx="370" cy="310" r="2" />
+   <circle id="e05" cx="370" cy="290" r="2" />
+   <circle id="e04Door" cx="500" cy="310" r="2" />
+   <circle id="e04" cx="500" cy="290" r="2" />
+   <circle id="e02Door" cx="650" cy="310" r="2" />
+   <circle id="e02" cx="650" cy="290" r="2" />
+   <circle id="e33Door" cx="167" cy="270" r="2" />
+   <circle id="e33" cx="167" cy="290" r="2" />
+   <circle id="e32Door" cx="254" cy="290" r="2" />
+   <circle id="e32" cx="254" cy="270" r="2" />
+   <circle id="e31Door" cx="341" cy="270" r="2" />
+   <circle id="e31" cx="341" cy="290" r="2" />
+   <circle id="e30Door" cx="428" cy="270" r="2" />
+   <circle id="e30" cx="428" cy="290" r="2" />
+   <circle id="eWcDoor" cx="603" cy="220" r="2" />
+   <circle id="eWc" cx="620" cy="220" r="2" />
+   <circle id="eStairsBuffet" cx="603" cy="150" r="2" />
+   <circle id="eStairsBuffetCorridor" cx="620" cy="150" r="2" />
+   <circle id="e13Corner" cx="60" cy="110" r="2" />
+   <circle id="e01Corner" cx="800" cy="290" r="2" />
+   <circle id="e09Corner" cx="60" cy="290" r="2" />
+   <circle id="e02Corner" cx="620" cy="290" r="2" />
